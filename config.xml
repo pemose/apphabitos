@@ -3,12 +3,12 @@
 
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.phonegap.example"
-        version     = "1.0.0"
+        version     = "1.0.1"
         versionCode = "10" >
 
         <!-- versionCode is optional and Android only -->
 
-        <preference name="phonegap-version" value="cli-3.6.3" />
+        <preference name="phonegap-version" value="cli-5.2.0" />
 
         <name>Shastu</name>
 
